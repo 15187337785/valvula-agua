@@ -1,0 +1,2 @@
+artifacts/bloqueador-ar/public/video.mp4 filter=lfs diff=lfs merge=lfs -text
+attached_assets/Vídeo_Página_de_Vendas_-_Bloqueador_de_Ar_1773261399114.mp4 filter=lfs diff=lfs merge=lfs -text
